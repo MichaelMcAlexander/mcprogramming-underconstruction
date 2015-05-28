@@ -1,0 +1,9 @@
+//import all folders
+
+/*
+	helpers must come first because it holds the variables
+	file that is used in the other directories
+*/
+@import 'helpers/all';
+@import 'base/all';
+@import 'modules/all';
